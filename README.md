@@ -4,7 +4,7 @@ A note about Nazi-era Provenance:
 
 During WWII, the Nazi party looted over one million artworks from various sources. Though the Nazi Regime stole artwork for multiple reasons, each justification relies on the idea of "ethnic cleansing." For example, the Nazis looted art created by those persecuted in the Holocaust, including Jewish people, disabled folks, people of color, LGBTQIA+ communities, and Romas. Such art pieces were detrimental to the Nazi sentiment because they celebrated the talents of those diaspora mentioned and/or depicted modernist art movements such as expressionism and abstract. The Nazis considered modernist art an insult to the "German feeling" as their art style of choice was classical art that depicted "Hellenistic" beauty; only in this context, Hellenistic functions as a synonym for "Aryan. 
  
- Entartete Kunst (The Degenerate Art Exhibition) produced by Adolf Ziegler and the Nazi Party is another example of how taking control of cultural institutions is a forceful, deeply nefarious facet of a fascist power grab. This exhibition displayed more than 700 works of modernist art for the sole purpose of defamation. The pieces ranged the spectrum of modernist art movements, including expressionist and abstract art. While some of these pieces met the unfortunate fate of immediate destruction, some ended up in art exhibits created to mock the aforementioned groups. The exhibit organization was deliberately sloppy: pictures were hung erratically, paintings were unframed, and a price accompanied some pieces to show their low-monetary worth. Attendees of the presentation were encouraged to laugh at the display and make rude remarks. "Degeneracy" was a crucial idea in Nazi theory and functioned as a method of portraying the persecuted groups' "genetic deformities."
+Entartete Kunst (The Degenerate Art Exhibition) produced by Adolf Ziegler and the Nazi Party is another example of how taking control of cultural institutions is a forceful, deeply nefarious facet of a fascist power grab. This exhibition displayed more than 700 works of modernist art for the sole purpose of defamation. The pieces ranged the spectrum of modernist art movements, including expressionist and abstract art. While some of these pieces met the unfortunate fate of immediate destruction, some ended up in art exhibits created to mock the aforementioned groups. The exhibit organization was deliberately sloppy: pictures were hung erratically, paintings were unframed, and a price accompanied some pieces to show their low-monetary worth. Attendees of the presentation were encouraged to laugh at the display and make rude remarks. "Degeneracy" was a crucial idea in Nazi theory and functioned as a method of portraying the persecuted groups' "genetic deformities."
  
 Although the disrespect and humiliation levied against these artworks were despicable, at least the "curators" preserved the works to some degree. Those artworks spared a fate of destruction, including those used in exhibits such as Entartete Kunst, constitute a body of work with "Nazi-era Provenance." 
  
@@ -20,7 +20,9 @@ Method:
 Below I will break down my methods in steps; the python code utilized in each of these steps and the resulting JSON files can be found on this repository. Don't hesitate to get in touch with me if you are interested in re-creating this project, and I can supply all object files. 
 
 Step 1: Use web scraping to download Nazi-era Provenance objects from the provenance research project list. This step required a URL split stage, which was achieved by going through all 15 pages of the filtered collection, opening the developer tool, and using that specific URL to download a list of Object IDs.  
+
 Step 2: Use a secret API to download each Object as a JSON file with their respective metadata.
+
 Step 3: Use regular expressions and glob to create a JSON file with a list of object metadata that includes data that can be used for provenance. At this time, I noticed there is virtually no "event" specific provenance data, so I pulled out information that could be used for provenance through inductive reasoning: 
 	1. Artist Name
 	2. Culture (culture depicted in art or culture of the artist)
@@ -32,6 +34,7 @@ Step 3: Use regular expressions and glob to create a JSON file with a list of ob
 	8. State (typically coincides with culture)
 
 Step 4: Since no explicit provenance information was attained through the API, I used Beautiful Soup and the import requests library to get the information on the webpage itself that refers to provenance and credit ('prov' and 'creditLine'), and combined the this information with that of step 3 for a full JSON file.
+
 Step 5:  Serialize the data into JSON LD Linked Art Data.
 
 Conclusion:
