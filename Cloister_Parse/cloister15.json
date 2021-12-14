@@ -1,0 +1,2986 @@
+{
+    "request": {
+        "q": null,
+        "showOnly": "NEprovenance",
+        "artist": null,
+        "material": null,
+        "era": null,
+        "geolocation": null,
+        "department": "7",
+        "pkgIds": null,
+        "exhibitionId": null,
+        "feature": null,
+        "searchField": "All",
+        "page": 1,
+        "pageId": "00000000-0000-0000-0000-000000000000",
+        "perPage": 80,
+        "offset": 1120,
+        "sortOrder": "asc",
+        "sortBy": "Relevance",
+        "queryParameters": null
+    },
+    "results": [
+        {
+            "title": "Liturgical Comb",
+            "description": " ",
+            "artist": "",
+            "culture": "Italian",
+            "teaserText": "<p>Date: late 11th–early 12th century<br/>Accession Number: 66.172</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471851?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1121",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi66-172s2.jpg",
+            "regularImage": "cl/web-additional/cdi66-172s2.jpg",
+            "largeImage": "cl/web-large/cdi66-172s2.jpg",
+            "date": "late 11th–early 12th century",
+            "medium": "Ivory",
+            "accessionNumber": "66.172",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Pilgrim&#39;s Badge",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 14th–16th century<br/>Accession Number: 1977.240.89</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/472114?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1122",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1977-240-89.jpg",
+            "regularImage": "cl/web-additional/cdi1977-240-89.jpg",
+            "largeImage": "cl/web-large/cdi1977-240-89.jpg",
+            "date": "14th–16th century",
+            "medium": "Lead",
+            "accessionNumber": "1977.240.89",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Saint Jerome",
+            "description": " ",
+            "artist": "",
+            "culture": "Austrian",
+            "teaserText": "<p>Date: 15th century<br/>Accession Number: 65.124</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471946?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1123",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi65-124.jpg",
+            "regularImage": "cl/web-additional/cdi65-124.jpg",
+            "largeImage": "cl/web-large/cdi65-124.jpg",
+            "date": "15th century",
+            "medium": "Limewood with paint",
+            "accessionNumber": "65.124",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Dish with Unidentified Coat of Arms",
+            "description": " ",
+            "artist": "",
+            "culture": "Spanish",
+            "teaserText": "<p>Date: 1470–1490<br/>Accession Number: 56.171.107</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471768?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1124",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi56-171-107s1.jpg",
+            "regularImage": "cl/web-additional/cdi56-171-107s1.jpg",
+            "largeImage": "cl/web-large/cdi56-171-107s1.jpg",
+            "date": "1470–1490",
+            "medium": "Tin-glazed earthenware",
+            "accessionNumber": "56.171.107",
+            "galleryInformation": "On view at The Met Cloisters in 16"
+        },
+        {
+            "title": "Pilgrim&#39;s Badge",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 14th–16th century<br/>Accession Number: 1977.240.95</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/472120?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1125",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1977-240-95.jpg",
+            "regularImage": "cl/web-additional/cdi1977-240-95.jpg",
+            "largeImage": "cl/web-large/cdi1977-240-95.jpg",
+            "date": "14th–16th century",
+            "medium": "Lead",
+            "accessionNumber": "1977.240.95",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "7 of Nooses, from The Cloisters Playing Cards",
+            "description": " ",
+            "artist": "",
+            "culture": "South Netherlandish",
+            "teaserText": "<p>Date: ca. 1475–80<br/>Accession Number: 1983.515.46</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/475571?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1126",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP354548.jpg",
+            "regularImage": "cl/web-additional/DP354548.jpg",
+            "largeImage": "cl/web-large/DP354548.jpg",
+            "date": "ca. 1475–80",
+            "medium": "Paper (four layers of pasteboard) with pen and ink, opaque paint, glazes, and applied silver and gold",
+            "accessionNumber": "1983.515.46",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Lock",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.76.2a-f</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471724?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1127",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-76-2a-f.jpg",
+            "regularImage": "cl/web-additional/cdi55-76-2a-f.jpg",
+            "largeImage": "cl/web-large/cdi55-76-2a-f.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.76.2a-f",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Boss and Nail",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.61.116a, b</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471677?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1128",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-61-116ab.jpg",
+            "regularImage": "cl/web-additional/cdi55-61-116ab.jpg",
+            "largeImage": "cl/web-large/cdi55-61-116ab.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.61.116a, b",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Pilgrim&#39;s Badge",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 14th–16th century<br/>Accession Number: 1977.240.25</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/472050?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1129",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1977-240-25.jpg",
+            "regularImage": "cl/web-additional/cdi1977-240-25.jpg",
+            "largeImage": "cl/web-large/cdi1977-240-25.jpg",
+            "date": "14th–16th century",
+            "medium": "Lead",
+            "accessionNumber": "1977.240.25",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Candlestick Bracket",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.61.25</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471598?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1130",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-61-25.jpg",
+            "regularImage": "cl/web-additional/cdi55-61-25.jpg",
+            "largeImage": "cl/web-large/cdi55-61-25.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.61.25",
+            "galleryInformation": "On view at The Met Cloisters in 19"
+        },
+        {
+            "title": "Candlestick",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.40.2</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471567?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1131",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-40-2.jpg",
+            "regularImage": "cl/web-additional/cdi55-40-2.jpg",
+            "largeImage": "cl/web-large/cdi55-40-2.jpg",
+            "date": "15th–16th century",
+            "medium": "Copper-alloy",
+            "accessionNumber": "55.40.2",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Engaged Double Base",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: late 15th century<br/>Accession Number: 67.155.36</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471866?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1132",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi67-155-36.jpg",
+            "regularImage": "cl/web-additional/cdi67-155-36.jpg",
+            "largeImage": "cl/web-large/cdi67-155-36.jpg",
+            "date": "late 15th century",
+            "medium": "Marble",
+            "accessionNumber": "67.155.36",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "St. John the Evangelist, probably from a Crucifixion Group",
+            "description": " ",
+            "artist": "",
+            "culture": "German",
+            "teaserText": "<p>Date: ca. 1420<br/>Accession Number: 65.215.4</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471849?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1133",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi65-215-4s1.jpg",
+            "regularImage": "cl/web-additional/cdi65-215-4s1.jpg",
+            "largeImage": "cl/web-large/cdi65-215-4s1.jpg",
+            "date": "ca. 1420",
+            "medium": "Limewood",
+            "accessionNumber": "65.215.4",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Tabernacle Door",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.61.40</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471612?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1134",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-61-40.jpg",
+            "regularImage": "cl/web-additional/cdi55-61-40.jpg",
+            "largeImage": "cl/web-large/cdi55-61-40.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.61.40",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Glass Fragment",
+            "description": " ",
+            "artist": "",
+            "culture": "Syrian",
+            "teaserText": "<p>Date: 8th century<br/>Accession Number: 1985.91.4</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/469977?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1135",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1985-91-4.jpg",
+            "regularImage": "cl/web-additional/cdi1985-91-4.jpg",
+            "largeImage": "cl/web-large/cdi1985-91-4.jpg",
+            "date": "8th century",
+            "medium": "Pot metal glass, vitreous paint",
+            "accessionNumber": "1985.91.4",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Corbel",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 15th century<br/>Accession Number: 58.174.4</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471843?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1136",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/LC-58_174_4.jpg",
+            "regularImage": "cl/web-additional/LC-58_174_4.jpg",
+            "largeImage": "cl/web-large/LC-58_174_4.jpg",
+            "date": "15th century",
+            "medium": "Wood",
+            "accessionNumber": "58.174.4",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Saints Procopius and Adalbert",
+            "description": " ",
+            "artist": "",
+            "culture": "Bohemian",
+            "teaserText": "<p>Date: ca. 1340–50<br/>Accession Number: 2013.272</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/479791?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1137",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP317181.jpg",
+            "regularImage": "cl/web-additional/DP317181.jpg",
+            "largeImage": "cl/web-large/DP317181.jpg",
+            "date": "ca. 1340–50",
+            "medium": "Tempera and gold leaf on panel",
+            "accessionNumber": "2013.272",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Boss and Nail",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.61.115a, b</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471676?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1138",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-61-115ab.jpg",
+            "regularImage": "cl/web-additional/cdi55-61-115ab.jpg",
+            "largeImage": "cl/web-large/cdi55-61-115ab.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.61.115a, b",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Game Piece with Hercules Slaying the Three-Headed Geryon",
+            "description": " ",
+            "artist": "",
+            "culture": "German",
+            "teaserText": "<p>Date: ca. 1150<br/>Accession Number: 1970.324.4</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471972?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1139",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP102831.jpg",
+            "regularImage": "cl/web-additional/DP102831.jpg",
+            "largeImage": "cl/web-large/DP102831.jpg",
+            "date": "ca. 1150",
+            "medium": "Ivory",
+            "accessionNumber": "1970.324.4",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Doorway",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: early 16th century<br/>Accession Number: 36.93</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471193?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1140",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi36-93.jpg",
+            "regularImage": "cl/web-additional/cdi36-93.jpg",
+            "largeImage": "cl/web-large/cdi36-93.jpg",
+            "date": "early 16th century",
+            "medium": "Limestone",
+            "accessionNumber": "36.93",
+            "galleryInformation": "On view at The Met Cloisters in 20"
+        },
+        {
+            "title": "Tile",
+            "description": " ",
+            "artist": "",
+            "culture": "Catalan",
+            "teaserText": "<p>Date: 12th century<br/>Accession Number: 37.90.3</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471209?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1141",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/sf37-90-3.jpg",
+            "regularImage": "cl/web-additional/sf37-90-3.jpg",
+            "largeImage": "cl/web-large/sf37-90-3.jpg",
+            "date": "12th century",
+            "medium": "Earthenware clay",
+            "accessionNumber": "37.90.3",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Pietà (Vesperbild)",
+            "description": " ",
+            "artist": "",
+            "culture": "Bohemian",
+            "teaserText": "<p>Date: ca. 1400<br/>Accession Number: 2001.78</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/473331?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1142",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DT4945.jpg",
+            "regularImage": "cl/web-additional/DT4945.jpg",
+            "largeImage": "cl/web-large/DT4945.jpg",
+            "date": "ca. 1400",
+            "medium": "Limestone with polychrome highlight",
+            "accessionNumber": "2001.78",
+            "galleryInformation": "On view at The Met Cloisters in 16"
+        },
+        {
+            "title": "Saint Michael",
+            "description": "Master of Belmonte (Spanish, Aragon, active ca. 1460–90)",
+            "artist": "Master of Belmonte",
+            "culture": "North Spanish",
+            "teaserText": "<p>Master of Belmonte (Spanish, Aragon, active ca. 1460–90) </p><p>Date: 1450–1500<br/>Accession Number: 55.120.2</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471730?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1143",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP316433.jpg",
+            "regularImage": "cl/web-additional/DP316433.jpg",
+            "largeImage": "cl/web-large/DP316433.jpg",
+            "date": "1450–1500",
+            "medium": "Tempera and oil on wood",
+            "accessionNumber": "55.120.2",
+            "galleryInformation": "On view at The Met Cloisters in 20"
+        },
+        {
+            "title": "Chalice with the Arms of Housteyn",
+            "description": " ",
+            "artist": "",
+            "culture": "South Netherlandish",
+            "teaserText": "<p>Date: second quarter 15th century<br/>Accession Number: 1989.358</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/469923?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1144",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1989-358s1.jpg",
+            "regularImage": "cl/web-additional/cdi1989-358s1.jpg",
+            "largeImage": "cl/web-large/cdi1989-358s1.jpg",
+            "date": "second quarter 15th century",
+            "medium": "Silver, parcel gilt with traces of enamel",
+            "accessionNumber": "1989.358",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Pilgrim&#39;s Badge",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 14th–16th century<br/>Accession Number: 1977.240.105</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/472007?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1145",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1977-240-105.jpg",
+            "regularImage": "cl/web-additional/cdi1977-240-105.jpg",
+            "largeImage": "cl/web-large/cdi1977-240-105.jpg",
+            "date": "14th–16th century",
+            "medium": "Lead",
+            "accessionNumber": "1977.240.105",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Amatory Brooch",
+            "description": " ",
+            "artist": "",
+            "culture": "German",
+            "teaserText": "<p>Date: ca. 1340–60<br/>Accession Number: 1986.386</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/469903?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1146",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP102846.jpg",
+            "regularImage": "cl/web-additional/DP102846.jpg",
+            "largeImage": "cl/web-large/DP102846.jpg",
+            "date": "ca. 1340–60",
+            "medium": "Gold and freshwater pearl",
+            "accessionNumber": "1986.386",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Silk with Griffins",
+            "description": " ",
+            "artist": "",
+            "culture": "Central Asian, Sicilian, or North African",
+            "teaserText": "<p>Date: first half 13th century<br/>Accession Number: 1984.344</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/466119?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1147",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/ra1984-344-R1.jpg",
+            "regularImage": "cl/web-additional/ra1984-344-R1.jpg",
+            "largeImage": "cl/web-large/ra1984-344-R1.jpg",
+            "date": "first half 13th century",
+            "medium": "Silk, silver-gilt metal on parchment over cotton",
+            "accessionNumber": "1984.344",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Fragment of a Border\t",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: ca. 1185–1205<br/>Accession Number: 1978.408.2</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/475509?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1148",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DT10163.jpg",
+            "regularImage": "cl/web-additional/DT10163.jpg",
+            "largeImage": "cl/web-large/DT10163.jpg",
+            "date": "ca. 1185–1205",
+            "medium": "Pot-metal glass with vitreous paint",
+            "accessionNumber": "1978.408.2",
+            "galleryInformation": "On view at The Met Cloisters in 8"
+        },
+        {
+            "title": "Roundel with Adoration of the Kings",
+            "description": " ",
+            "artist": "",
+            "culture": "North Netherlandish",
+            "teaserText": "<p>Date: 1510–20<br/>Accession Number: 1972.245.3</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471960?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1149",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP241182.jpg",
+            "regularImage": "cl/web-additional/DP241182.jpg",
+            "largeImage": "cl/web-large/DP241182.jpg",
+            "date": "1510–20",
+            "medium": "Colorless glass, vitreous paint and silver stain",
+            "accessionNumber": "1972.245.3",
+            "galleryInformation": "On view at The Met Cloisters in 10"
+        },
+        {
+            "title": "3 of Horns, from The Cloisters Playing Cards",
+            "description": " ",
+            "artist": "",
+            "culture": "South Netherlandish",
+            "teaserText": "<p>Date: ca. 1475–80<br/>Accession Number: 1983.515.11</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/475536?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1150",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP354504.jpg",
+            "regularImage": "cl/web-additional/DP354504.jpg",
+            "largeImage": "cl/web-large/DP354504.jpg",
+            "date": "ca. 1475–80",
+            "medium": "Paper (four layers of pasteboard) with pen and ink, opaque paint, glazes, and applied silver and gold",
+            "accessionNumber": "1983.515.11",
+            "galleryInformation": "On view at The Met Cloisters in 13"
+        },
+        {
+            "title": "Deep Dish",
+            "description": " ",
+            "artist": "",
+            "culture": "Spanish",
+            "teaserText": "<p>Date: ca. 1430<br/>Accession Number: 56.171.113</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471774?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1151",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DP210210.jpg",
+            "regularImage": "cl/web-additional/DP210210.jpg",
+            "largeImage": "cl/web-large/DP210210.jpg",
+            "date": "ca. 1430",
+            "medium": "Tin-glazed earthenware",
+            "accessionNumber": "56.171.113",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Pilgrim&#39;s Badge",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: 14th–16th century<br/>Accession Number: 1977.240.49</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/472074?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1152",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1977-240-49.jpg",
+            "regularImage": "cl/web-additional/cdi1977-240-49.jpg",
+            "largeImage": "cl/web-large/cdi1977-240-49.jpg",
+            "date": "14th–16th century",
+            "medium": "Lead",
+            "accessionNumber": "1977.240.49",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Door Knocker",
+            "description": " ",
+            "artist": "",
+            "culture": "European",
+            "teaserText": "<p>Date: 15th–16th century<br/>Accession Number: 55.61.33a, b</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/471605?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1153",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi55-61-33ab.jpg",
+            "regularImage": "cl/web-additional/cdi55-61-33ab.jpg",
+            "largeImage": "cl/web-large/cdi55-61-33ab.jpg",
+            "date": "15th–16th century",
+            "medium": "Iron",
+            "accessionNumber": "55.61.33a, b",
+            "galleryInformation": "Not on view"
+        },
+        {
+            "title": "Plaque with the Holy Women at the Sepulchre",
+            "description": " ",
+            "artist": "",
+            "culture": "North Italian",
+            "teaserText": "<p>Date: early 10th century<br/>Accession Number: 1993.19</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/466254?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1154",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/DT201432.jpg",
+            "regularImage": "cl/web-additional/DT201432.jpg",
+            "largeImage": "cl/web-large/DT201432.jpg",
+            "date": "early 10th century",
+            "medium": "Elephant ivory",
+            "accessionNumber": "1993.19",
+            "galleryInformation": "On view at The Met Cloisters in 14"
+        },
+        {
+            "title": "Glass panel",
+            "description": " ",
+            "artist": "",
+            "culture": "French",
+            "teaserText": "<p>Date: ca. 1325–30<br/>Accession Number: 1982.204.6</p>",
+            "url": "https://www.metmuseum.org/art/collection/search/470000?searchField=All&amp;sortBy=Relevance&amp;deptids=7&amp;showOnly=NEprovenance&amp;ft=*&amp;offset=1120&amp;rpp=80&amp;pos=1155",
+            "image": "https://images.metmuseum.org/CRDImages/cl/mobile-large/cdi1982-204-6.jpg",
+            "regularImage": "cl/web-additional/cdi1982-204-6.jpg",
+            "largeImage": "cl/web-large/cdi1982-204-6.jpg",
+            "date": "ca. 1325–30",
+            "medium": "White glass with silver stain",
+            "accessionNumber": "1982.204.6",
+            "galleryInformation": "Not on view"
+        }
+    ],
+    "facets": [
+        {
+            "filterGroupId": null,
+            "filterGroupType": null,
+            "filterGroupLabel": null,
+            "filterGroupName": null,
+            "filterGroupItems": null,
+            "id": "artist",
+            "label": "Artist / Culture",
+            "searchable": true,
+            "name": null,
+            "values": [
+                {
+                    "id": "Amsterdam Cabinet, Master of the$Master of the Amsterdam Cabinet",
+                    "label": "Master of the Amsterdam Cabinet",
+                    "name": "Amsterdam Cabinet, Master of the",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Balduccio, Giovanni di$Giovanni di Balduccio",
+                    "label": "Giovanni di Balduccio",
+                    "name": "Balduccio, Giovanni di",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Beck, Leonhard$Leonhard Beck",
+                    "label": "Leonhard Beck",
+                    "name": "Beck, Leonhard",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Beham, Sebald$Sebald Beham",
+                    "label": "Sebald Beham",
+                    "name": "Beham, Sebald",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Belbello da Pavia$Belbello da Pavia",
+                    "label": "Belbello da Pavia",
+                    "name": "Belbello da Pavia",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Biberach Holy Kinship Master of the$Master of the Biberach Holy Kinship",
+                    "label": "Master of the Biberach Holy Kinship",
+                    "name": "Biberach Holy Kinship Master of the",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bouts, Dieric$Dieric Bouts",
+                    "label": "Dieric Bouts",
+                    "name": "Bouts, Dieric",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Breu, Jörg, the Elder$Jörg Breu the Elder",
+                    "label": "Jörg Breu the Elder",
+                    "name": "Breu, Jörg, the Elder",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Brunner Friedrich$Friedrich Brunner",
+                    "label": "Friedrich Brunner",
+                    "name": "Brunner Friedrich",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "da Giona Andrea$Andrea da Giona",
+                    "label": "Andrea da Giona",
+                    "name": "da Giona Andrea",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "di Bartolo, Giovanni$Giovanni di Bartolo",
+                    "label": "Giovanni di Bartolo",
+                    "name": "di Bartolo, Giovanni",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "di Gregorio Goro$Goro di Gregorio",
+                    "label": "Goro di Gregorio",
+                    "name": "di Gregorio Goro",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Eggers, Otto Reinhold$Otto Reinhold Eggers",
+                    "label": "Otto Reinhold Eggers",
+                    "name": "Eggers, Otto Reinhold",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Godefridus$Godefridus",
+                    "label": "Godefridus",
+                    "name": "Godefridus",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Grenier of Tournai Pasquier$Pasquier Grenier of Tournai",
+                    "label": "Pasquier Grenier of Tournai",
+                    "name": "Grenier of Tournai Pasquier",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Guglielmus$Guglielmus",
+                    "label": "Guglielmus",
+                    "name": "Guglielmus",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Hemmel von Andlau, Peter Circle of$Circle of Peter Hemmel von Andlau (Strassburger Werkstattgemeinschaft)",
+                    "label": "Circle of Peter Hemmel von Andlau (Strassburger Werkstattgemeinschaft)",
+                    "name": "Hemmel von Andlau, Peter Circle of",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Heysacker, Tilman$Tilman Heysacker",
+                    "label": "Tilman Heysacker",
+                    "name": "Heysacker, Tilman",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Hirschvogel Workshop$Hirschvogel Workshop",
+                    "label": "Hirschvogel Workshop",
+                    "name": "Hirschvogel Workshop",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Hirschvolgel, Augustin$Augustin Hirschvogel",
+                    "label": "Augustin Hirschvogel",
+                    "name": "Hirschvolgel, Augustin",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Jospeh Panels, Jacob Van Lathem? After Master of the$After Master of the Jospeh Panels, Jacob Van Lathem?",
+                    "label": "After Master of the Jospeh Panels, Jacob Van Lathem?",
+                    "name": "Jospeh Panels, Jacob Van Lathem? After Master of the",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Judenburg, Hans von$Hans von Judenburg",
+                    "label": "Hans von Judenburg",
+                    "name": "Judenburg, Hans von",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Kaschauer Jakob Circle of$Circle of Jakob Kaschauer",
+                    "label": "Circle of Jakob Kaschauer",
+                    "name": "Kaschauer Jakob Circle of",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Koulix, Joannes$Joannes Koulix",
+                    "label": "Joannes Koulix",
+                    "name": "Koulix, Joannes",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lapi Geri Workshop of$Workshop of Geri Lapi",
+                    "label": "Workshop of Geri Lapi",
+                    "name": "Lapi Geri Workshop of",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lautenbach Master$Lautenbach Master",
+                    "label": "Lautenbach Master",
+                    "name": "Lautenbach Master",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Le Noir Jean$Jean Le Noir",
+                    "label": "Jean Le Noir",
+                    "name": "Le Noir Jean",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lindenast, Sebastian, the Elder$Sebastian Lindenast the Elder",
+                    "label": "Sebastian Lindenast the Elder",
+                    "name": "Lindenast, Sebastian, the Elder",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Marcy, Louis$Louis Marcy (Luigi Parmeggiani)",
+                    "label": "Louis Marcy (Luigi Parmeggiani)",
+                    "name": "Marcy, Louis",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master Christophanus  Stephanus$Master Christophanus  Stephanus",
+                    "label": "Master Christophanus  Stephanus",
+                    "name": "Master Christophanus  Stephanus",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of Belmonte$Master of Belmonte",
+                    "label": "Master of Belmonte",
+                    "name": "Master of Belmonte",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of Charles of France$Master of Charles of France",
+                    "label": "Master of Charles of France",
+                    "name": "Master of Charles of France",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of Cubélls$Master of Cubélls",
+                    "label": "Master of Cubélls",
+                    "name": "Master of Cubélls",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of Pedret$Master of Pedret",
+                    "label": "Master of Pedret",
+                    "name": "Master of Pedret",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of the Burg Weiler Altarpiece$Master of the Burg Weiler Altarpiece",
+                    "label": "Master of the Burg Weiler Altarpiece",
+                    "name": "Master of the Burg Weiler Altarpiece",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of the Lorsch Calvary$Master of the Lorsch Calvary",
+                    "label": "Master of the Lorsch Calvary",
+                    "name": "Master of the Lorsch Calvary",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of the Sonnenberg-Künigl Altar$Master of the Sonnenberg-Künigl Altar",
+                    "label": "Master of the Sonnenberg-Künigl Altar",
+                    "name": "Master of the Sonnenberg-Künigl Altar",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Master of the Virgin Mary's Reliquary Casket$Master of the Virgin Mary's Reliquary Casket",
+                    "label": "Master of the Virgin Mary's Reliquary Casket",
+                    "name": "Master of the Virgin Mary's Reliquary Casket",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Memling, Hans$Hans Memling",
+                    "label": "Hans Memling",
+                    "name": "Memling, Hans",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Monogrammist SZ$Monogrammist SZ",
+                    "label": "Monogrammist SZ",
+                    "name": "Monogrammist SZ",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pacher, Michael$Michael Pacher",
+                    "label": "Michael Pacher",
+                    "name": "Pacher, Michael",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pollack, Jan$Jan Pollack",
+                    "label": "Jan Pollack",
+                    "name": "Pollack, Jan",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pseudo-Ortkens$Pseudo-Ortkens",
+                    "label": "Pseudo-Ortkens",
+                    "name": "Pseudo-Ortkens",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rabenden Master of$Master of Rabenden",
+                    "label": "Master of Rabenden",
+                    "name": "Rabenden Master of",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rémois Atelier$Rémois Atelier",
+                    "label": "Rémois Atelier",
+                    "name": "Rémois Atelier",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Riemenschneider Tilman$Tilman Riemenschneider",
+                    "label": "Tilman Riemenschneider",
+                    "name": "Riemenschneider Tilman",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rizzardi Giovanni$Giovanni Rizzardi (before 1937)",
+                    "label": "Giovanni Rizzardi (before 1937)",
+                    "name": "Rizzardi Giovanni",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Santiago de Compostela Workshop of$Workshop of Santiago de Compostela",
+                    "label": "Workshop of Santiago de Compostela",
+                    "name": "Santiago de Compostela Workshop of",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Schäufelein, Hans$Hans Schäufelein",
+                    "label": "Hans Schäufelein",
+                    "name": "Schäufelein, Hans",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Simon, Jacques$Jacques Simon",
+                    "label": "Jacques Simon",
+                    "name": "Simon, Jacques",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "the Master of Santa Maria la Bianca$Master of Santa Maria la Bianca",
+                    "label": "Master of Santa Maria la Bianca",
+                    "name": "the Master of Santa Maria la Bianca",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "von Hagenau, Nikolaus$Nikolaus von Hagenau",
+                    "label": "Nikolaus von Hagenau",
+                    "name": "von Hagenau, Nikolaus",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "von Reutlingen, Hans$Hans von Reutlingen",
+                    "label": "Hans von Reutlingen",
+                    "name": "von Reutlingen, Hans",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Walther, Friedrich$Friedrich Walther",
+                    "label": "Friedrich Walther",
+                    "name": "Walther, Friedrich",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Zeiner Lukas$Lukas Zeiner",
+                    "label": "Lukas Zeiner",
+                    "name": "Zeiner Lukas",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                }
+            ],
+            "facets": null
+        },
+        {
+            "filterGroupId": null,
+            "filterGroupType": null,
+            "filterGroupLabel": null,
+            "filterGroupName": null,
+            "filterGroupItems": null,
+            "id": "material",
+            "label": "Object Type / Material",
+            "searchable": true,
+            "name": null,
+            "values": [
+                {
+                    "id": "Apothecary jars",
+                    "label": "Apothecary jars",
+                    "name": "Apothecary jars",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Aquamaniles",
+                    "label": "Aquamaniles",
+                    "name": "Aquamaniles",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Badges",
+                    "label": "Badges",
+                    "name": "Badges",
+                    "count": 142,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Blown glass",
+                    "label": "Blown glass",
+                    "name": "Blown glass",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bone",
+                    "label": "Bone",
+                    "name": "Bone",
+                    "count": 36,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bosses",
+                    "label": "Bosses",
+                    "name": "Bosses",
+                    "count": 17,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bowls",
+                    "label": "Bowls",
+                    "name": "Bowls",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Boxes",
+                    "label": "Boxes",
+                    "name": "Boxes",
+                    "count": 10,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bronze",
+                    "label": "Bronze",
+                    "name": "Bronze",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Brooches",
+                    "label": "Brooches",
+                    "name": "Brooches",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Candleholders",
+                    "label": "Candleholders",
+                    "name": "Candleholders",
+                    "count": 29,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Candlesticks",
+                    "label": "Candlesticks",
+                    "name": "Candlesticks",
+                    "count": 23,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Canvas",
+                    "label": "Canvas",
+                    "name": "Canvas",
+                    "count": 10,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Capitals",
+                    "label": "Capitals",
+                    "name": "Capitals",
+                    "count": 17,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Case furniture",
+                    "label": "Case furniture",
+                    "name": "Case furniture",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ceramic glaze",
+                    "label": "Ceramic glaze",
+                    "name": "Ceramic glaze",
+                    "count": 16,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ceramics",
+                    "label": "Ceramics",
+                    "name": "Ceramics",
+                    "count": 114,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Chairs",
+                    "label": "Chairs",
+                    "name": "Chairs",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Champlevé",
+                    "label": "Champlevé",
+                    "name": "Champlevé",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Copper",
+                    "label": "Copper",
+                    "name": "Copper",
+                    "count": 58,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Copper alloy",
+                    "label": "Copper alloy",
+                    "name": "Copper alloy",
+                    "count": 44,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Costume",
+                    "label": "Costume",
+                    "name": "Costume",
+                    "count": 18,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Dishes",
+                    "label": "Dishes",
+                    "name": "Dishes",
+                    "count": 52,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Door knockers",
+                    "label": "Door knockers",
+                    "name": "Door knockers",
+                    "count": 15,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Doors",
+                    "label": "Doors",
+                    "name": "Doors",
+                    "count": 33,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Earthenware",
+                    "label": "Earthenware",
+                    "name": "Earthenware",
+                    "count": 108,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Embroidery",
+                    "label": "Embroidery",
+                    "name": "Embroidery",
+                    "count": 19,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Enamels",
+                    "label": "Enamels",
+                    "name": "Enamels",
+                    "count": 34,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ewers",
+                    "label": "Ewers",
+                    "name": "Ewers",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Figures",
+                    "label": "Figures",
+                    "name": "Figures",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Figurines",
+                    "label": "Figurines",
+                    "name": "Figurines",
+                    "count": 34,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Flatware",
+                    "label": "Flatware",
+                    "name": "Flatware",
+                    "count": 11,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Fragments",
+                    "label": "Fragments",
+                    "name": "Fragments",
+                    "count": 30,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Furniture",
+                    "label": "Furniture",
+                    "name": "Furniture",
+                    "count": 38,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Gilt",
+                    "label": "Gilt",
+                    "name": "Gilt",
+                    "count": 103,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Glass",
+                    "label": "Glass",
+                    "name": "Glass",
+                    "count": 199,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Glaze",
+                    "label": "Glaze",
+                    "name": "Glaze",
+                    "count": 71,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Glazing",
+                    "label": "Glazing",
+                    "name": "Glazing",
+                    "count": 89,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Gold",
+                    "label": "Gold",
+                    "name": "Gold",
+                    "count": 88,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Hinges",
+                    "label": "Hinges",
+                    "name": "Hinges",
+                    "count": 14,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Illuminations",
+                    "label": "Illuminations",
+                    "name": "Illuminations",
+                    "count": 27,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ink",
+                    "label": "Ink",
+                    "name": "Ink",
+                    "count": 81,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Iron",
+                    "label": "Iron",
+                    "name": "Iron",
+                    "count": 216,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Iron alloy",
+                    "label": "Iron alloy",
+                    "name": "Iron alloy",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Iron and iron alloy",
+                    "label": "Iron and iron alloy",
+                    "name": "Iron and iron alloy",
+                    "count": 216,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ivory",
+                    "label": "Ivory",
+                    "name": "Ivory",
+                    "count": 32,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Jars",
+                    "label": "Jars",
+                    "name": "Jars",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Jewelry",
+                    "label": "Jewelry",
+                    "name": "Jewelry",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Jugs",
+                    "label": "Jugs",
+                    "name": "Jugs",
+                    "count": 10,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lead",
+                    "label": "Lead",
+                    "name": "Lead",
+                    "count": 164,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lead glaze",
+                    "label": "Lead glaze",
+                    "name": "Lead glaze",
+                    "count": 14,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Leather",
+                    "label": "Leather",
+                    "name": "Leather",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lighting devices",
+                    "label": "Lighting devices",
+                    "name": "Lighting devices",
+                    "count": 34,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lights",
+                    "label": "Lights",
+                    "name": "Lights",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Limestone",
+                    "label": "Limestone",
+                    "name": "Limestone",
+                    "count": 62,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Linden",
+                    "label": "Linden",
+                    "name": "Linden",
+                    "count": 24,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Linen",
+                    "label": "Linen",
+                    "name": "Linen",
+                    "count": 21,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Locks",
+                    "label": "Locks",
+                    "name": "Locks",
+                    "count": 15,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Manuscripts",
+                    "label": "Manuscripts",
+                    "name": "Manuscripts",
+                    "count": 28,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Marble",
+                    "label": "Marble",
+                    "name": "Marble",
+                    "count": 36,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Metal",
+                    "label": "Metal",
+                    "name": "Metal",
+                    "count": 758,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Metalwork",
+                    "label": "Metalwork",
+                    "name": "Metalwork",
+                    "count": 453,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Nails",
+                    "label": "Nails",
+                    "name": "Nails",
+                    "count": 93,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Needlework",
+                    "label": "Needlework",
+                    "name": "Needlework",
+                    "count": 19,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Oak",
+                    "label": "Oak",
+                    "name": "Oak",
+                    "count": 21,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Paintings",
+                    "label": "Paintings",
+                    "name": "Paintings",
+                    "count": 45,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Panels",
+                    "label": "Panels",
+                    "name": "Panels",
+                    "count": 113,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Paper",
+                    "label": "Paper",
+                    "name": "Paper",
+                    "count": 57,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Parchment",
+                    "label": "Parchment",
+                    "name": "Parchment",
+                    "count": 32,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pen",
+                    "label": "Pen",
+                    "name": "Pen",
+                    "count": 54,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Plaques",
+                    "label": "Plaques",
+                    "name": "Plaques",
+                    "count": 21,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Plate",
+                    "label": "Plate",
+                    "name": "Plate",
+                    "count": 52,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Playing cards",
+                    "label": "Playing cards",
+                    "name": "Playing cards",
+                    "count": 52,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Polychromy",
+                    "label": "Polychromy",
+                    "name": "Polychromy",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pottery",
+                    "label": "Pottery",
+                    "name": "Pottery",
+                    "count": 111,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Reliefs",
+                    "label": "Reliefs",
+                    "name": "Reliefs",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Reliquaries",
+                    "label": "Reliquaries",
+                    "name": "Reliquaries",
+                    "count": 16,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Roundels",
+                    "label": "Roundels",
+                    "name": "Roundels",
+                    "count": 54,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Sculpture",
+                    "label": "Sculpture",
+                    "name": "Sculpture",
+                    "count": 170,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Seating furniture",
+                    "label": "Seating furniture",
+                    "name": "Seating furniture",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Silk",
+                    "label": "Silk",
+                    "name": "Silk",
+                    "count": 40,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Silver",
+                    "label": "Silver",
+                    "name": "Silver",
+                    "count": 197,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Slip decoration",
+                    "label": "Slip decoration",
+                    "name": "Slip decoration",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Spoons",
+                    "label": "Spoons",
+                    "name": "Spoons",
+                    "count": 10,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Stained glass",
+                    "label": "Stained glass",
+                    "name": "Stained glass",
+                    "count": 176,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Statues",
+                    "label": "Statues",
+                    "name": "Statues",
+                    "count": 73,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Stone",
+                    "label": "Stone",
+                    "name": "Stone",
+                    "count": 33,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tapestries",
+                    "label": "Tapestries",
+                    "name": "Tapestries",
+                    "count": 15,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tempera",
+                    "label": "Tempera",
+                    "name": "Tempera",
+                    "count": 31,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Textiles",
+                    "label": "Textiles",
+                    "name": "Textiles",
+                    "count": 50,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tile",
+                    "label": "Tile",
+                    "name": "Tile",
+                    "count": 16,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Vellum",
+                    "label": "Vellum",
+                    "name": "Vellum",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Vessels",
+                    "label": "Vessels",
+                    "name": "Vessels",
+                    "count": 48,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Vestments",
+                    "label": "Vestments",
+                    "name": "Vestments",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Walnut",
+                    "label": "Walnut",
+                    "name": "Walnut",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Windows",
+                    "label": "Windows",
+                    "name": "Windows",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Wood",
+                    "label": "Wood",
+                    "name": "Wood",
+                    "count": 96,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Woodwork",
+                    "label": "Woodwork",
+                    "name": "Woodwork",
+                    "count": 36,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Wool",
+                    "label": "Wool",
+                    "name": "Wool",
+                    "count": 20,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Wrought iron",
+                    "label": "Wrought iron",
+                    "name": "Wrought iron",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                }
+            ],
+            "facets": null
+        },
+        {
+            "filterGroupId": null,
+            "filterGroupType": null,
+            "filterGroupLabel": null,
+            "filterGroupName": null,
+            "filterGroupItems": null,
+            "id": "geolocation",
+            "label": "Geographic Location",
+            "searchable": true,
+            "name": null,
+            "values": [
+                {
+                    "id": "Aachen",
+                    "label": "Aachen",
+                    "name": "Aachen",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Africa",
+                    "label": "Africa",
+                    "name": "Africa",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Alsace",
+                    "label": "Alsace",
+                    "name": "Alsace",
+                    "count": 6,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Amiens",
+                    "label": "Amiens",
+                    "name": "Amiens",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Amsterdam",
+                    "label": "Amsterdam",
+                    "name": "Amsterdam",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Andalusia",
+                    "label": "Andalusia",
+                    "name": "Andalusia",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Antwerp",
+                    "label": "Antwerp",
+                    "name": "Antwerp",
+                    "count": 21,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Aquitaine",
+                    "label": "Aquitaine",
+                    "name": "Aquitaine",
+                    "count": 7,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Aragón",
+                    "label": "Aragón",
+                    "name": "Aragón",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Artois",
+                    "label": "Artois",
+                    "name": "Artois",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Asia",
+                    "label": "Asia",
+                    "name": "Asia",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Aube",
+                    "label": "Aube",
+                    "name": "Aube",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Augsburg",
+                    "label": "Augsburg",
+                    "name": "Augsburg",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Austria",
+                    "label": "Austria",
+                    "name": "Austria",
+                    "count": 46,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Auvergne",
+                    "label": "Auvergne",
+                    "name": "Auvergne",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Barcelona",
+                    "label": "Barcelona",
+                    "name": "Barcelona",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bavaria",
+                    "label": "Bavaria",
+                    "name": "Bavaria",
+                    "count": 34,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Belgium",
+                    "label": "Belgium",
+                    "name": "Belgium",
+                    "count": 39,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bohemia",
+                    "label": "Bohemia",
+                    "name": "Bohemia",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Bourges",
+                    "label": "Bourges",
+                    "name": "Bourges",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Brabant",
+                    "label": "Brabant",
+                    "name": "Brabant",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Brussels",
+                    "label": "Brussels",
+                    "name": "Brussels",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Burgos",
+                    "label": "Burgos",
+                    "name": "Burgos",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Burgundy",
+                    "label": "Burgundy",
+                    "name": "Burgundy",
+                    "count": 16,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Canterbury",
+                    "label": "Canterbury",
+                    "name": "Canterbury",
+                    "count": 11,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Carinthia",
+                    "label": "Carinthia",
+                    "name": "Carinthia",
+                    "count": 28,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Castilla y León",
+                    "label": "Castilla y León",
+                    "name": "Castilla y León",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Catalonia",
+                    "label": "Catalonia",
+                    "name": "Catalonia",
+                    "count": 18,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Champagne",
+                    "label": "Champagne",
+                    "name": "Champagne",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Cher",
+                    "label": "Cher",
+                    "name": "Cher",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Cologne",
+                    "label": "Cologne",
+                    "name": "Cologne",
+                    "count": 16,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Czech Republic",
+                    "label": "Czech Republic",
+                    "name": "Czech Republic",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "East Flanders",
+                    "label": "East Flanders",
+                    "name": "East Flanders",
+                    "count": 7,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Egypt",
+                    "label": "Egypt",
+                    "name": "Egypt",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Elbeuf",
+                    "label": "Elbeuf",
+                    "name": "Elbeuf",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "England",
+                    "label": "England",
+                    "name": "England",
+                    "count": 35,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Europe",
+                    "label": "Europe",
+                    "name": "Europe",
+                    "count": 1141,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Flanders",
+                    "label": "Flanders",
+                    "name": "Flanders",
+                    "count": 32,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Florence",
+                    "label": "Florence",
+                    "name": "Florence",
+                    "count": 18,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "France",
+                    "label": "France",
+                    "name": "France",
+                    "count": 371,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Gascony",
+                    "label": "Gascony",
+                    "name": "Gascony",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Germany",
+                    "label": "Germany",
+                    "name": "Germany",
+                    "count": 132,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Ghent",
+                    "label": "Ghent",
+                    "name": "Ghent",
+                    "count": 6,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Hesse",
+                    "label": "Hesse",
+                    "name": "Hesse",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Italy",
+                    "label": "Italy",
+                    "name": "Italy",
+                    "count": 54,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Kent",
+                    "label": "Kent",
+                    "name": "Kent",
+                    "count": 11,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Languedoc",
+                    "label": "Languedoc",
+                    "name": "Languedoc",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Larreule",
+                    "label": "Larreule",
+                    "name": "Larreule",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Leiden",
+                    "label": "Leiden",
+                    "name": "Leiden",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Leuven",
+                    "label": "Leuven",
+                    "name": "Leuven",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Limoges",
+                    "label": "Limoges",
+                    "name": "Limoges",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Limousin",
+                    "label": "Limousin",
+                    "name": "Limousin",
+                    "count": 9,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lleida",
+                    "label": "Lleida",
+                    "name": "Lleida",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lombardy",
+                    "label": "Lombardy",
+                    "name": "Lombardy",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "London",
+                    "label": "London",
+                    "name": "London",
+                    "count": 11,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lower Austria",
+                    "label": "Lower Austria",
+                    "name": "Lower Austria",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lower Saxony",
+                    "label": "Lower Saxony",
+                    "name": "Lower Saxony",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lucca",
+                    "label": "Lucca",
+                    "name": "Lucca",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Lyon",
+                    "label": "Lyon",
+                    "name": "Lyon",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Manises",
+                    "label": "Manises",
+                    "name": "Manises",
+                    "count": 82,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Marne",
+                    "label": "Marne",
+                    "name": "Marne",
+                    "count": 134,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Middle Rhine",
+                    "label": "Middle Rhine",
+                    "name": "Middle Rhine",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Midlands",
+                    "label": "Midlands",
+                    "name": "Midlands",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Milan",
+                    "label": "Milan",
+                    "name": "Milan",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Mosan",
+                    "label": "Mosan",
+                    "name": "Mosan",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Münster",
+                    "label": "Münster",
+                    "name": "Münster",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Navarre",
+                    "label": "Navarre",
+                    "name": "Navarre",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Netherlands",
+                    "label": "Netherlands",
+                    "name": "Netherlands",
+                    "count": 90,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Normandy",
+                    "label": "Normandy",
+                    "name": "Normandy",
+                    "count": 43,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "North and Central America",
+                    "label": "North and Central America",
+                    "name": "North and Central America",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Nottingham",
+                    "label": "Nottingham",
+                    "name": "Nottingham",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Nuremberg",
+                    "label": "Nuremberg",
+                    "name": "Nuremberg",
+                    "count": 27,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Orne",
+                    "label": "Orne",
+                    "name": "Orne",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Oxfordshire",
+                    "label": "Oxfordshire",
+                    "name": "Oxfordshire",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Paris",
+                    "label": "Paris",
+                    "name": "Paris",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Picardy",
+                    "label": "Picardy",
+                    "name": "Picardy",
+                    "count": 8,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Poitou",
+                    "label": "Poitou",
+                    "name": "Poitou",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Pontigny",
+                    "label": "Pontigny",
+                    "name": "Pontigny",
+                    "count": 2,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rheims",
+                    "label": "Rheims",
+                    "name": "Rheims",
+                    "count": 134,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rhine Valley",
+                    "label": "Rhine Valley",
+                    "name": "Rhine Valley",
+                    "count": 7,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rhineland",
+                    "label": "Rhineland",
+                    "name": "Rhineland",
+                    "count": 25,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Rouen",
+                    "label": "Rouen",
+                    "name": "Rouen",
+                    "count": 6,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Salzburg",
+                    "label": "Salzburg",
+                    "name": "Salzburg",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Siegburg",
+                    "label": "Siegburg",
+                    "name": "Siegburg",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Somme",
+                    "label": "Somme",
+                    "name": "Somme",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Spain",
+                    "label": "Spain",
+                    "name": "Spain",
+                    "count": 154,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Strasbourg",
+                    "label": "Strasbourg",
+                    "name": "Strasbourg",
+                    "count": 5,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Swabia",
+                    "label": "Swabia",
+                    "name": "Swabia",
+                    "count": 10,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Switzerland",
+                    "label": "Switzerland",
+                    "name": "Switzerland",
+                    "count": 6,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Syria",
+                    "label": "Syria",
+                    "name": "Syria",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tours",
+                    "label": "Tours",
+                    "name": "Tours",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Troyes",
+                    "label": "Troyes",
+                    "name": "Troyes",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tuscany",
+                    "label": "Tuscany",
+                    "name": "Tuscany",
+                    "count": 23,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Tyrol",
+                    "label": "Tyrol",
+                    "name": "Tyrol",
+                    "count": 6,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "United Kingdom",
+                    "label": "United Kingdom",
+                    "name": "United Kingdom",
+                    "count": 50,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "United States",
+                    "label": "United States",
+                    "name": "United States",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Valencia",
+                    "label": "Valencia",
+                    "name": "Valencia",
+                    "count": 82,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Vienna",
+                    "label": "Vienna",
+                    "name": "Vienna",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Westphalia",
+                    "label": "Westphalia",
+                    "name": "Westphalia",
+                    "count": 4,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "Yonne",
+                    "label": "Yonne",
+                    "name": "Yonne",
+                    "count": 3,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                }
+            ],
+            "facets": null
+        },
+        {
+            "filterGroupId": null,
+            "filterGroupType": null,
+            "filterGroupLabel": null,
+            "filterGroupName": null,
+            "filterGroupItems": null,
+            "id": "era",
+            "label": "Date / Era",
+            "searchable": false,
+            "name": null,
+            "values": [
+                {
+                    "id": "A.D. 1400-1600",
+                    "label": "A.D. 1400-1600",
+                    "name": "0",
+                    "count": 642,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "A.D. 1000-1400",
+                    "label": "A.D. 1000-1400",
+                    "name": "0",
+                    "count": 294,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "A.D. 500-1000",
+                    "label": "A.D. 500-1000",
+                    "name": "0",
+                    "count": 13,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "A.D. 1900-present",
+                    "label": "A.D. 1900-present",
+                    "name": "0",
+                    "count": 12,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "A.D. 1-500",
+                    "label": "A.D. 1-500",
+                    "name": "0",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                },
+                {
+                    "id": "A.D. 1800-1900",
+                    "label": "A.D. 1800-1900",
+                    "name": "0",
+                    "count": 1,
+                    "selected": false,
+                    "hidden": false,
+                    "orderId": 0
+                }
+            ],
+            "facets": null
+        },
+        {
+            "filterGroupId": null,
+            "filterGroupType": null,
+            "filterGroupLabel": null,
+            "filterGroupName": null,
+            "filterGroupItems": null,
+            "id": "department",
+            "label": "Department",
+            "searchable": false,
+            "name": null,
+            "values": [
+                {
+                    "id": "7",
+                    "label": "The Cloisters",
+                    "name": "The Cloisters",
+                    "count": 1155,
+                    "selected": true,
+                    "hidden": false,
+                    "orderId": 0
+                }
+            ],
+            "facets": null
+        }
+    ],
+    "totalResults": 1155,
+    "totalCollectionResults": 493901,
+    "fromCache": false,
+    "isCorrected": false,
+    "originalQuery": null,
+    "correctedQuery": null,
+    "urlCorrectionRequired": false
+}
