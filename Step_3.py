@@ -38,7 +38,7 @@ for filename in glob.glob('Object_IDs/*.json'):
         print(data['objectEndDate'])
 
 
-with open ('p', 'w') as out:
+with open ('All_Obs', 'w') as out:
     json.dump(save_data,out,indent=2)
 
 print(has_city)
