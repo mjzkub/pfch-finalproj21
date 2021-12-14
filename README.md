@@ -19,9 +19,9 @@ Method:
  
 Below I will break down my methods in steps; the python code utilized in each of these steps and the resulting JSON files can be found on this repository.
 
-Step 1: Use web scraping to download Nazi-era Provenance objects from the provenance research project list. This step required a URL split stage, which was achieved by going through all 15 pages of the filtered collection, opening the developer tool, and using that specific URL to download a list of Object IDs. The result of this can be found within the "Cloister_Parse" folder. 
+Step 1: Use web scraping to download Nazi-era Provenance objects from the provenance research project list. This step required a URL split stage, which was achieved by going through all 15 pages of the filtered collection, opening the developer tool, and using that specific URL to download a list of Object IDs. The JSON files for each page can be found within the "Cloister_Parse" folder. The result of this step is the"ObjectsIDs.json" file.
 
-Step 2: Use a secret API to download each Object as a JSON file with their respective metadata.
+Step 2: Use a secret API to download each Object as a JSON file with their respective metadata. The result of this step can be found within the "Object_IDs" folder. 
 
 Step 3: Use regular expressions and glob to create a JSON file with a list of object metadata that includes data that can be used for provenance. At this time, I noticed there is virtually no "event" specific provenance data, so I pulled out information that could be used for provenance through inductive reasoning: 
 	1. Artist Name
