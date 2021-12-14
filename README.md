@@ -35,7 +35,7 @@ Step 3: Use regular expressions and glob to create a JSON file with a list of ob
 
 Step 4: Since no explicit provenance information was attained through the API, I used Beautiful Soup and the import requests library to get the information on the webpage itself that refers to provenance and credit ('prov' and 'creditLine'), and combined the this information with that of step 3 for a full JSON file.
 
-Step 5:  Serialize the data into JSON LD Linked Art Data.
+Step 5:  Serialize the data into JSON LD Linked Art Data; note that this data only really includes if the acquisition type and where the object came from. Unfortunately, unless the acquistion type was a gift, it was unclear how the museum acquired it. 
 
 Conclusion:
 
