@@ -1,0 +1,2583 @@
+[
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. A.B. Samuels, in memory of A. Bertram Samuels, 1952",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1952-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Stefano Bardini, Florence (sold 1902)] ; his sale, Christie's, London (May 27, 1902, no. 625) ; Mrs. A. B. Samuels, New York (until 1952)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Probably from the Abbey of Notre Dame de La Grande-Sauve, (Gironde) part of ancient province of Guienne.; George and Florence Blumenthal, Paris and New York (until 1934)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Dr. Louis R. Slattery, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Sotheby's, London British, (June 24, 1982, lot 34)] ; [ Blumka Gallery, New York] ; Louis R. Slattery USA, New York (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1934)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "The Cloisters Collection, Gift of Mrs. Sibyll  Kummer-Rothenhausler, 1982",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1982-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Galerie f\u00fcr Glasmalerei (sold 1982) ]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of John D. Rockefeller Jr., 1949",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1949-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mr. and Mrs. John Hunt, Drumleck Baily, Co. Dublin, Ireland (until 1949)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Anthony and Lois Blumka, 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ W. Bastiaan Blok, Noordwijk, The Netherlands (sold 1991)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, 1980",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1980-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Brummer Gallery, Paris and New York] ; [ Blumka Gallery, New York (sold 1980)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Anthony and Lois Blumka, 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ W. Bastiaan Blok, Noordwijk, The Netherlands (sold 1991)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Cheever Porter, in memory of her father, John D. Cheever, 1940",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1940-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mrs.  Cheever Porter, New York (until 1940)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of John D. Rockefeller Jr., 1937",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1937-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Demotte Inc., Paris (?)] ; John D. Rockefeller Jr., New York (until 1937)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1934)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mr. George Blumenthal, 15 Boulevard de Montmorency, Paris. \r\nGift to Cloisters, 1934.; George and Florence Blumenthal, Paris and New York (until 1934)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Silberman Galleries, 1950",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1950-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "E & A Silberman Galleries (until 1950)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Louis R. Slattery, in honor of Ashton Hawkins, 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Sibyll Kummer-Rothenh\u00e4usler, Galerie f\u00fcr Glasmalerei, Zurich ] ; Ruth Blumka, New York ; Louis R. Slattery USA, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Harry G. Friedman, 1956",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1956-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Harry G. Friedman,  New York (until 1956)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Purchase, Gift of The Hearst Foundation and Rogers Fund, by exchange, 2008",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "2008-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Karl Ferdinand Friedrich von Nagler, Berlin (until 1835) ; K\u00f6nigliche Kunstkammer, Berlin (1835\u201376) ; Schlo\u00dfmuseum, Berlin (1876\u2013sold ca. 1929/1937; inv. no. 4242) ; [ J. Rosenbaum, Frankfurt (from 1929/1937)] ; [ Rosenberg & Stiebel, New York (sold 1941)] ; [ Joseph Brummer, New York (1941\u2013d. 1947)] ; Joseph Brummer Collection sale, Parke-Bernet Galleries, New York (May 14, 1949, part of lot 707) ; [ Germain Seligman, New York (until d. 1978)] ; [ Artemis S. A. Luxembourg (from 1979) ; Private Collection, Antwerp ; Christie's, London (December 6, 1988, lot 35) ; [ Albrecht Neuhaus Kunsthandel, W\u00fcrzburg (from 1988)] ; Georg Schoop ; [ Blumka Gallery, New York (sold 2008)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. and Mrs. J.J. Klejman, 1964",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1964-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ John J. Klejman American (until 1964) ]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of James J. Rorimer, 1937",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1937-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "James J. Rorimer (until 1937)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. W. Murray Crane, 1969",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1969-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the Monastery of Wienhausen; Princess Hohenzollern-Sigmaringen ; Mrs. W. Murray Crane, New York (until 1969)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. and Mrs. Alain Moatti, 1988",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1988-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mr. and Mrs. Alain Moatti, Paris (until 1988)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, 1980",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1980-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Brummer Gallery, Paris and New York] ; [ Blumka Gallery, New York (sold 1980)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Stephen C. Clark, 1939",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1939-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Carmelite convent at Trie-en-Bigorre, near Toulouse; George Grey Barnard American, Bellefonte, Pennsylvania 1863\u20131938 New York, New York ; Stephen C. Clark 1882\u20131960, New York (until 1936)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, 1980",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1980-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "John Edward Taylor, London (until 1912) ; [his sale, Christie's, London (July 1-4, 1912, no. 235)] ; [ Jacques Seligmann, Paris and New York (in 1912)] ; [ Ruth and Leopold Blumka, New York (until 1980)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Purchase, Gift of The Hearst Foundation, by exchange, 2010",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "2010-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Pierre-Richard Royer Paris, Paris ; [ Sam Fogg Ltd., London]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Solomon R. Guggenheim, 1950",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1950-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mrs. Solomon R. Guggenheim (until 1950)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Dr. and Mrs. Paul G. Ecker, in memory of Victoria Blumka, 1992",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1992-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ P. W. French & Co., New York] ; Dr. and Mrs. Paul G. Ecker USA (until 1992)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Abby Aldridge Rockefeller, 1947",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1947-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Abby Aldrich Rockefeller, New York (until 1947)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Robert A. Ellison Jr. Collection, Gift of Robert A. Ellison Jr., 2014",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "2014-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Robert A. Ellison Jr. (until 2014; to MMA)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Stephen C. Clark, 1939",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1939-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Carmelite convent at Trie-en-Bigorre, near Toulouse; Alcide Curie-Seimbres, Trie, France ; George Grey Barnard American, Bellefonte, Pennsylvania 1863\u20131938 New York, New York ; Stephen C. Clark 1882\u20131960, New York (until 1936)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "The Cloisters Collection, Gift of J.D. Rockefeller Jr., by exchange, 1982",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1982-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Rainer Zietz Limited ; [ Ward & Company Works of Art American ]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, 1980",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1980-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Brummer Gallery, Paris and New York] ; [ Blumka Gallery, New York (sold 1980)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. and Mrs. Frederic B. Pratt, 1936",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1936-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mr. and Mrs. Frederic B. Pratt, Brooklyn and Glen Cove, N.Y. (until 1936)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of James J. Rorimer, 1937",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1937-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the site of the Benedictine Monastery of Saint-Michel-de-Cuxa, near Perpignan, France; James J. Rorimer, New York (until 1937)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George Blumenthal (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, in honor of Timothy B. Husband, Curator of The Cloisters, 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Ruth Blumka, New York"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Dr. Andrew J. Werner, 1978",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1978-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean-Jacques Massee, Kampen, The Netherlands ; [ Blumka Gallery, New York] ; Dr. Andrew J. Werner USA, New York (until 1978)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Charles C. Huber, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mary M. Huber (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. and Mrs. J.J. Klejman, 1964",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1964-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ John J. Klejman American, New York (sold 1964)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Rainer M. Zietz, 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Margarete Oppenheim, Berlin (from 1929\u2013d. 1934) ; [ Julius B\u00f6hler Kunsthandlung, Munich (May 1936, lot 465)] ; Private Collection ; [ Sotheby's, London British (July 10, 1975, lot 5)] ; Thomas F. Flannery, Jr. 1926\u20131980, Chicago (sale, 1983) ; [ Sotheby's, London British (December 1\u20133, 1983, lot 18)] ; [ Rainer Zietz Limited, London (sold 1985)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Ruth Blumka, in honor of Michel David-Weill, 1992",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1992-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Ruth and Leopold Blumka, New York (until 1992)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Robert Lehman, 1960",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1960-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the Benedictine monastery of San Giorgio Maggiore, Venice, Italy.; Carlo Bruscoli, Florence (1924) ; Robert Lehman, New York (until 1960)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Joseph Brummer and Ernest Brummer, in memory of Joseph Brummer, 1948",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1948-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Monastery of Trie or Larreule; Ernest Brummer and Mrs. Joseph Brummer (until 1948)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Charles C. Huber, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mary M. Huber (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Solomon R. Guggenheim, 1950",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1950-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mrs. Solomon R. Guggenheim (until 1950)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Abby Aldridge Rockefeller, 1947",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1947-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Abby Aldrich Rockefeller, New York (until 1947)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr.& Mrs. Iain Nasatir, 1982",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1982-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Iain and Victoria Nasatir (until 1982)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Leo S. Bing, 1951",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1951-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Collegium Germanicum, Rome (in 1924) ; Mrs. Leo S. Bing, New York (until 1951)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Munsey Fund, 1932; Gift of John D. Rockefeller Jr., 1947; Gift of George A. Douglass, 1947",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1932-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Joel Joseph Duveen, London] [32.130.3b] ; Maurice Chabri\u00e8res-Arl\u00e8s, Lyon and Paris (by 1877) [32.130.3b] ; [ Duveen Brothers, Paris and New York (from late 1915) [32.130.3b] ; Clarence Mackay, Roslyn, NY (1924\u2013sold 1932) [32.130.3b] ; Joel Joseph Duveen, London [47.101.1] ; Baron Arthur Schickler 1828\u20131919, ch\u00e2teau Martinvast, Normandy (from about 1872) [47.101.1] ; Count and Countess Hubert de Pourtal\u00e8s, ch\u00e2teau Martinvast, Normandy (sold 1936) [47.101.1] ; [ Brummer Gallery, Paris and New York (1936\u20131947) ] [47.101.1] ; Clarence Mackay, Roslyn, NY [47.152] ; [ Raphael Stora and Co., New York, New York (?)] [47.152] ; George A. Douglass, Sr., New York (until 1947) [47.152]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Stephen C. Clark, 1939",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1939-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Carmelite convent at Trie-en-Bigorre, near Toulouse; Alcide Curie-Seimbres ; George Grey Barnard American, Bellefonte, Pennsylvania 1863\u20131938 New York, New York ; Stephen C. Clark 1882\u20131960, New York (until 1936)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Purchase, The Cloisters Collection and Gift of The Hearst Foundation, by exchange, 2010",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "2010-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the Cemetery Church of St. Salvator, Munich (until ca. 1906); [ Sibyll Kummer-Rothenh\u00e4usler, Zurich (sold 1960s)] ; Werner Coninx, Zurich (until 1980) ; [ Koller West, Zurich (December 5, 2007, lot 5626) ] ; [ Gallery Barbara Giesicke German, Badenweiler, Germany (sold 2010) ]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of James J. Rorimer, 1937",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1937-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George Grey Barnard American, Bellefonte, Pennsylvania 1863\u20131938 New York (sold 1937)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. John Hunt, 1955",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1955-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mrs. John Hunt (until 1955)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Philip Hofer, 1937",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1937-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Philip Hofer (until 1937)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Joseph Brummer and Ernest Brummer, in memory of Joseph Brummer, 1948",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1948-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Monastery of Trie or Larreule; Joseph Brummer and Mrs. Joseph Brummer (until 1948)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. Paul W. Doll Jr., 1964",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1964-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Meyer, Vienna ; Paul W. Doll, Jr. (until 1964)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Ruth Blumka, in honor of Timothy Husband, 1989",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1989-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "A.R. Nesle, New York (until 1941) ; [ Brummer Gallery, Paris and New York (sold 1949)] ; [Joseph Brummer Collection sale, Parke-Bernet Galleries, New York (April 20-23, 1949, lot 432)] ; Ruth and Leopold Blumka, New York (1949?\u2013sold 1989)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Victoria and Iain Nasatir, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Blumka Gallery, New York] ; Iain and Victoria Nasatir (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Anthony and Lois Blumka, 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ W. Bastiaan Blok, Noordwijk, The Netherlands (sold 1991)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Edward G. Sparrow, 1950",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1950-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Edward G. Sparrow (until 1950)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Arnold Seligmann, Rey & Co. Inc., in memory of Joseph Breck, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Arnold Seligmann, Rey & Co., Inc., New York (until 1934)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Dr. Louis R. Slattery, 1980",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1980-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Johannes Jantzen, Bremen ; [ Blumka Gallery, New York] ; Dr. Louis R. Slattery USA, New York (until 1980)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Edgar Bromberger, in memory of his mother, Augusta Bromberger, and of his wife, Clara Seasongood Bromberger, 1956",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1956-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "The Honorable Edgar Bromberger, Scarsdale, NY (until 1956)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the Rouen Cathedral Choir; Jean Lafond ; Robert and Shirley Prager Branner"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of  Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "The Cloisters Collection, Gift of Mrs. Harry Wehle, 1972",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1972-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mrs. Harry Wehle, New York (until 1972)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Dr. Louis R. Slattery, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Sotheby's, London British (June 24, 1982, lot 34)] ; [ Blumka Gallery, New York] ; Louis R. Slattery USA, New York (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Harry G. Friedman, 1956",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1956-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Harry G. Friedman, New York (until 1956)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "George and Florence Blumenthal, Paris and New York (until 1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Arnold Seligmann, Rey & Co. Inc., in memory of Joseph Breck, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Arnold Seligmann, Rey & Co., Inc., New York (until 1934)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1934",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1934-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Probably from the cloister of the Abbey of Notre-Dame-de-La-Grande-Sauve, Gironde, part of the anceint province of Guienne.; George and Florence Blumenthal, Paris and New York (until 1934)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of George Blumenthal, 1935",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1935-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Refectory of Dominican Convent, Sens (Yonne); Larcher (until 1920) ; George and Florence Blumenthal, Paris and New York (1920-1935)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Raymond Pitcairn, 1965",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1965-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "From the Cathedral of Noyon, Picardy; Raymond Pitcairn, Bryn Athyn, Pennsylvania (until 1965)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Anthony and Lois Blumka, 1991",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1991-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "said to be excavated at Huy; [ W. Bastiaan Blok, Noordwijk, The Netherlands (sold 1991)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Shirley Prager Branner (Mrs. Robert Branner), 1985",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1985-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Jean Lafond, Paris ; Robert and Shirley Prager Branner, New York (until 1985)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "The Cloisters Collection, Gift of Dr. Louis R. Slattery, 1982",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1982-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "[ Blumka Gallery, New York] ; Louis R. Slattery USA, New York (until 1982)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mrs. Charles C. Huber, 1984",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1984-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Mary M. Huber (until 1984)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Lois and Anthony Blumka, in memory of Victoria Blumka, 1990",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1990-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Ulmann, Hamburg ; [ Sotheby's, London British (December 7, 1989, lot 266)] ; [ Blumka II Gallery, New York (sold 1990)]"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  },
+  {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://metmuseum.org/prov/provenance/0",
+    "type": "Activity",
+    "_label": "Gift of Mr. and Mrs. Edward S. Moore, 1944",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300055863",
+        "type": "Type",
+        "_label": "Provenance Activity"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "begin_of_the_begin": "1944-01-01T00:00:00Z"
+    },
+    "carried_out_by": [
+      {
+        "type": "Group",
+        "_label": "Said to have come from a convent in Valladolid; Mr. and Mrs. Edward Small Moore, Palm Beach (until 1944)"
+      }
+    ],
+    "part": [
+      {
+        "type": "Acquisition",
+        "_label": "Acquisition of Object"
+      }
+    ]
+  }
+]
