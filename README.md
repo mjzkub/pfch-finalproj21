@@ -33,7 +33,9 @@ Step 3: Use regular expressions and glob to create a JSON file with a list of ob
 	7. Country (typically coincides with culture)
 	8. State (typically coincides with culture)
 
-Step 4: Since no explicit provenance information was attained through the API, I used Beautiful Soup and the import requests library to get the information on the webpage itself that refers to provenance and credit ('prov' and 'creditLine'), and combined the this information with that of step 3 for a full JSON file.
+The result of this step is the file "All_Obs.json." Additional code within this step that did not contribute to the writing of the JSON file was executed in order to find out how many objects actually contained values for the above elements. 
+
+Step 4: Since no explicit provenance information was attained through the API, I used Beautiful Soup and the import requests library to get the information on the webpage itself that refers to provenance and credit ('prov' and 'creditLine'), and combined the this information with that of step 3 for a full JSON file. The result of this step can be found within "All_Obs_With_Prov.json."
 
 Step 5:  Serialize the data into JSON LD Linked Art Data; note that this data only really includes if the acquisition type and where the object came from. Unfortunately, unless the acquistion type was a gift, it was unclear how the museum acquired it. 
 
