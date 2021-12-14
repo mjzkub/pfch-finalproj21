@@ -17,7 +17,7 @@ In order to narrow the scope of my project, my dataset only includes artworks he
 
 Method: 
  
-Below I will break down my methods in steps; the python code utilized in each of these steps and the resulting JSON files can be found on this repository. Don't hesitate to get in touch with me if you are interested in re-creating this project, and I can supply all object files. 
+Below I will break down my methods in steps; the python code utilized in each of these steps and the resulting JSON files can be found on this repository.
 
 Step 1: Use web scraping to download Nazi-era Provenance objects from the provenance research project list. This step required a URL split stage, which was achieved by going through all 15 pages of the filtered collection, opening the developer tool, and using that specific URL to download a list of Object IDs.  
 
